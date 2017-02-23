@@ -1,0 +1,41 @@
+{
+  "name": "Bounce",
+  "identifier": "bouncing",
+  "type": "A",
+  "icon": "radio-button-unchecked",
+  "showOn": {
+    "market": true,
+    "dragDrop": true
+  },
+  "view": "modules/bouncing/index.html",
+  "files": ["modules/bouncing/controller.js"],
+  "scope": {
+    "loadUrl": "'modules/bouncing/newkoa.png'"
+  },
+  "config" : [
+    {
+      "type": "input",
+      "key": "loadUrl",
+      "templateOptions": {
+        "label": "Image Url",
+        "description": "Image Url",
+        "required": true
+      }
+    }
+  ],
+  "showOn" : {
+      "menu" : true,
+      "market" : true,
+      "dragDrop" : true
+  },
+  "images": {
+    "list": "modules/bouncing/images/list.png",
+    "screenshots": [
+      "modules/bouncing/images/screenshot01.png",
+      "modules/bouncing/images/screenshot02.png"
+    ],
+    "popover": "modules/bouncing/images/popover.png",
+    "banner": "modules/bouncing/images/banner.png",
+    "logo": "modules/bouncing/images/logo.png"
+  }
+}

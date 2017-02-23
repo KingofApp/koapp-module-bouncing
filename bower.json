@@ -1,0 +1,13 @@
+{
+  "name": "koapp-module-bouncing",
+  "authors": "King of App",
+  "description": "Bounce module for King of App",
+  "keywords": [
+    "kingofapp",
+    "module"
+  ],
+  "license": "MIT",
+  "homepage": "http://kingofapp.com",
+  "private": true,
+  "dependencies": {}
+}
