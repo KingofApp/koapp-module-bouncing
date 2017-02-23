@@ -10,7 +10,7 @@
   "view": "modules/bouncing/index.html",
   "files": ["modules/bouncing/controller.js"],
   "scope": {
-    "loadUrl": "'modules/bouncing/newkoa.png'"
+    "loadUrl": "'modules/bouncing/images/newkoa.png'"
   },
   "config" : [
     {
