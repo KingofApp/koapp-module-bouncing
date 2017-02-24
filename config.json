@@ -1,6 +1,26 @@
 {
   "name": "Bounce",
   "identifier": "bouncing",
+  "description": {
+    "es-ES": "Módulo bouncing.",
+    "en-US": "Bouncing module."
+  },
+  "documentation": {
+    "es-ES": "modules/bouncing/documentation/es_ES.md",
+    "en-US": "modules/bouncing/documentation/en_US.md"
+  },
+  "descriptionShort": {
+    "es-ES": "Módulo bouncing.",
+    "en-US": "Bouncing module."
+  },
+  "icon": "",
+  "type": "A",
+  "version": "0.0.1",
+  "author": "King of app",
+  "category": ["module", "bounce", "bouncing"],
+  "price": 0,
+  "subscription": false,
+  "canContain": false,
   "type": "A",
   "icon": "radio-button-unchecked",
   "showOn": {
