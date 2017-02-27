@@ -9,9 +9,9 @@
 
   function loadFunction($scope, structureService, $location) {
       //Register upper level modules
-    $scope.loadUrl = $scope.bouncing.modulescope.loadUrl;
 
     structureService.registerModule($location, $scope, 'bouncing');
+    $scope.loadUrl = $scope.bouncing.modulescope.loadUrl;
     setTimeout(function() {
       var x = 0,
           y = 0,
