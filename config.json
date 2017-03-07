@@ -2,16 +2,16 @@
   "name": "Bounce",
   "identifier": "bouncing",
   "description": {
-    "es-ES": "Módulo bouncing.",
-    "en-US": "Bouncing module."
+    "es-ES": "Genera un QR único que se vincúla con tu página. Simplemente inserta la dirección de la web que quieres conectar al QR y posicionála dentro de tu aplicación.",
+    "en-US": "Generate a unique QR that can link to any site that you want. Simply insert the web you would like to connect to the QR reader, and place it inside of you application."
   },
   "documentation": {
     "es-ES": "modules/bouncing/documentation/es_ES.md",
     "en-US": "modules/bouncing/documentation/en_US.md"
   },
   "descriptionShort": {
-    "es-ES": "Módulo bouncing.",
-    "en-US": "Bouncing module."
+    "es-ES": "Genera un QR único para vincular tu página web!",
+    "en-US": "Generate a unique QR code for your website!"
   },
   "icon": "",
   "type": "A",
